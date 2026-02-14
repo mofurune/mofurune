@@ -1,4 +1,4 @@
-ポートフォリオ　　：https://mofurune.notion.site/37772ba4dead4d00a6bc232ca70e6bf6
+ポートフォリオ　　：https://mofurune.notion.site
 
 技術記事（Qiita） ：https://qiita.com/mofurune
 
